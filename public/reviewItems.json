@@ -1,21 +1,21 @@
 [
     {
         "name": "Mahfujul Haque Plabon",
-        "comment":" Wow Good product",
+        "comment":"I ordered 1 higher end laptops for Eid gifts nearly 1 months ahead of time. But HP saying that ,  arrive in early Aprial .",
         
         "rating": 5.00,
         "id": 1011
     },
     
     {
-        "name": "Bariul Munsi",
-        "comment":"best product",
-        "rating": 4.9,
+        "name": " Rifat jahan zim",
+        "comment":"Computer just shuts down in the middle of typing. I send emails from another computer. Sometimes it will be hours before the message makes it to my computer. ",
+        "rating":4.00,
         "id": 1012
     },
     
     {
-        "name": "Anik Ahmed",
+        "name": "Bariul Munsi ",
         "comment":"The product was very beautiful",
         "rating": 4.9,
         "id": 1013
@@ -23,7 +23,7 @@
     
     {
         "name": "Sadia Jaman",
-        "comment":"Statisfy",
+        "comment":"Wow good product",
         "rating": 4.7,
         "id": 1014
     },
@@ -36,8 +36,8 @@
     },
     
     {
-        "name": "Rifat jahan zim",
-        "comment":"Nice",
+        "name": "Anik Ahmed",
+        "comment":" Statisfy",
         "rating": 4.9,
         "id": 1016
     }
