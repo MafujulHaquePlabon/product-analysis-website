@@ -1,0 +1,13 @@
+.alignCenter{
+    align-items: center;
+}
+.Shadow{
+  box-shadow: 5px 5px 40px rgb(219, 215, 215);
+ justify-content: center;
+  border-radius: 15px;
+  padding:10px 25px;
+ /*  width: 75%; */
+  
+display: grid;
+grid-template-columns: 1fr 4fr;
+}

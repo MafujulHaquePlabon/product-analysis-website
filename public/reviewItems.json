@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Mahfujul Haque Plabon",
+        "comment":" Wow Good product",
+        
+        "rating": 5.00,
+        "id": 1011
+    },
+    
+    {
+        "name": "Bariul Munsi",
+        "comment":"best product",
+        "rating": 4.9,
+        "id": 1012
+    },
+    
+    {
+        "name": "Anik Ahmed",
+        "comment":"The product was very beautiful",
+        "rating": 4.9,
+        "id": 1013
+    },
+    
+    {
+        "name": "Sadia Jaman",
+        "comment":"Statisfy",
+        "rating": 4.7,
+        "id": 1014
+    },
+    
+    {
+        "name": "Abdul Razzak",
+        "comment":"Beautifully",
+        "rating": 4.8,
+        "id": 1015
+    },
+    
+    {
+        "name": "Rifat jahan zim",
+        "comment":"Nice",
+        "rating": 4.9,
+        "id": 1016
+    }
+    
+]
