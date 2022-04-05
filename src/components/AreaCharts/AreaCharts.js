@@ -9,7 +9,7 @@ const AreaCharts = ({dataItems}) => {
           <h1 className="text-blue-700 font-semibold text-xl">Investment vs Revenue</h1>
         <AreaChart
           width={500}
-          height={400}
+          height={300}
           data={dataItems}
         >
           <CartesianGrid strokeDasharray="3 3" />

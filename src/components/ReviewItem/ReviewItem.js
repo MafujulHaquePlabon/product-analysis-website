@@ -15,7 +15,7 @@ const ReviewItem = ({reviewItem}) => {
       <p> <span className=' font-semibold'>Review by:</span> {reviewItem.comment}</p>
       <div className='flex justify-center align-middle '>
       <p className='flex justify-center alignCenter '> 
-      <span className=' font-semibold mr-2 '>Rating: </span> {reviewItem.rating} <StarIcon class="h-5 w-5 text-yellow-600"></StarIcon>
+      <span className=' font-semibold mr-2 '>Rating: </span> {reviewItem.rating} <StarIcon class="h-5 w-5 text-yellow-600"></StarIcon><StarIcon class="h-5 w-5 text-yellow-600"></StarIcon><StarIcon class="h-5 w-5 text-yellow-600"></StarIcon><StarIcon class="h-5 w-5 text-yellow-600"></StarIcon><StarIcon class="h-5 w-5 text-yellow-600"></StarIcon>
       
       </p>
       </div>
