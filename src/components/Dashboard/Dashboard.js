@@ -3,6 +3,7 @@ import AreaCharts from '../AreaCharts/AreaCharts';
 import BarCharts from '../BarCharts/BarCharts';
 import MyLineCharts from '../MyLineCharts/MyLineCharts';
 import PieCharts from '../PieCharts/PieCharts';
+import "./Dashboard.css"
 
 
 const Dashboard = () => {
@@ -13,9 +14,9 @@ const Dashboard = () => {
         .then(data=> setDataItems(data))
     },[]);
     return (
-       <div className='grid grid-cols-1 md:grid-cols-2 mt-20 '>
+       <div className='grid grid-cols-1  md:grid-cols-2 mt-20 mx-5'>
           
-         <MyLineCharts dataItems={dataItems}></MyLineCharts>
+         <MyLineCharts  dataItems={dataItems}></MyLineCharts>
                 <AreaCharts dataItems={dataItems}></AreaCharts> 
                 <BarCharts  dataItems={dataItems} ></BarCharts>
                 <PieCharts  dataItems={dataItems}></PieCharts>

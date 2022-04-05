@@ -13,7 +13,7 @@ const Home = () => {
     
     return (
         <div >
-            <div className='grid grid-cols-1 md:grid-cols-2 gap-x-40 my-20'>
+            <div className='grid grid-cols-1 md:grid-cols-2 gap-x-40 my-20 mx-12'>
             <div className='mb-5' >
             <h1 className='text-5xl font-bold'>Your Next Laptop</h1>
             <h1 className='text-green-600 text-5xl font-bold'>Your best Laptop</h1>
