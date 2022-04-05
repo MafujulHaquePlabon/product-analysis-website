@@ -5,7 +5,7 @@ import ReviewItem from '../ReviewItem/ReviewItem';
 const Reviews = () => {
     const [reviewItems,setReviewItems]=useReviewItems();
     return (
-        <div>
+        <div className="my-20">
            {
             reviewItems.map(reviewItem=><ReviewItem 
             key={reviewItem.id}

@@ -3,7 +3,7 @@ import React from 'react';
 const Blogs = () => {
     return (
         <div className=''>
-               <div className=" grid grid-cols-1 md:grid-cols-2 gap-10 mt-10">
+               <div className=" grid grid-cols-1 md:grid-cols-2 gap-10 mt-20">
               <div className='mx-5 p-5 shadow-2xl shadow-gray-400'>
               <h1 className='text-2xl font-semibold'>What is contex API?</h1>
               <p>The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. When we want to send any data from grandparents to grandchildren in the form of props, we cannot send it directly. In between, father has to send data from grandparents. The easiest way to get read of this problem is context api.</p>
