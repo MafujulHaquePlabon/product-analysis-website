@@ -1,6 +1,5 @@
 # Online Labtop shop
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Netlify live site link:
+ [Click Here](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-#.getting started
+* Header, Home,Reviews,Dashboard,Blogs,About components used.
